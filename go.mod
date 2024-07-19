@@ -1,4 +1,4 @@
-module gotool
+module github.com/eakphisitdha-uttra/gotool
 
 go 1.21.5
 
